@@ -21,7 +21,7 @@
   },
   "Yb5cQiV2ETxPbBYCLOpt2": {
     "title": "OpenAI",
-    "description": "OpenAI developed influential language models including GPT-3, GPT-4, and ChatGPT, setting industry standards for prompt engineering practices. Their API provides access to powerful LLMs with configurable parameters like temperature and max tokens. Many prompt engineering techniques and best practices originated from working with OpenAI systems.",
+    "description": "OpenAI developed influential language models including GPT-3, GPT-4, and o3, setting industry standards for prompt engineering practices. Their API provides access to powerful LLMs with configurable parameters like temperature and max tokens. Many prompt engineering techniques and best practices originated from working with OpenAI systems.",
     "links": []
   },
   "o-6UKLZ6oCRbAKgRjH2uI": {
@@ -227,6 +227,11 @@
   "P5nDyQbME53DOEfSkcY6I": {
     "title": "Calibrating LLMs",
     "description": "Calibrating LLMs involves adjusting models so their confidence scores accurately reflect their actual accuracy. Well-calibrated models express appropriate uncertainty - being confident when correct and uncertain when likely wrong. This helps users better trust and interpret model outputs, especially in critical applications where uncertainty awareness is crucial.",
+    "links": []
+  },
+  "prompt-tuning@VjuUq6nEz3Wyx5NJWNaxr.md": {
+    "title": "Prompt Tuning",
+    "description": "",
     "links": []
   }
 }
